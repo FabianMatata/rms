@@ -1,1 +1,1 @@
-House Rental Management System
+House Rental System
